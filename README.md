@@ -1,4 +1,4 @@
-﻿# CarTemperature
+﻿# Car Temperature
 
 I collected and plotted the interior temperature of my car during a particular hot spell in mid June here in Phoenix.
 
